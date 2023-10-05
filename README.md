@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Python PC Locker](https://github.com/CatPaulKatze/python-pc-locker) and [HSZ (school)](https://github.com/CatPaulKatze/hsz)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catpaulkatze&repo=python-pc-locker&theme=dark)](https://github.com/CatPaulKatze/python-pc-locker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catpaulkatze&repo=hsz&theme=dark)](https://github.com/catpaulkatze/hsz)
+
 <p align="left">
 </p>
 
