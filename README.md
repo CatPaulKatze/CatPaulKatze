@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Paul from Austria<br><br>- 🔭 I’m working on small projekt<br>- 📚 I'm currently learning Typescript</p>
+<p align="left">I'm Paul from Austria<br><br>- 🔭 I’m working on small project<br>- 📚 I'm currently learning Typescript</p>
 
 ###
 
