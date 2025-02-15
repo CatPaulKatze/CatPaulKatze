@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">I'm Paul from Austria<br><br>- 🔭 I’m working on small project<br>- 📚 I'm currently learning Typescript</p>
+<p align="left">I'm Paul from Austria<br><br>- 🔭 I’m working on a small project<br>- 📚 I'm currently learning Typescript</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
